@@ -1,0 +1,12 @@
+h1{ color:crimson} /*Element Selector*/
+
+#idex{font-style: italic; color: darkmagenta;}  /*ID Selector*/
+
+.alternate{background-color:aliceblue; margin-left:1cm;}/*Class selector*/
+
+*{ background-color: bisque;} /*Universal Selector*/
+
+h1,h2{text-decoration:underline;}/*Group Selector*/
+
+
+
